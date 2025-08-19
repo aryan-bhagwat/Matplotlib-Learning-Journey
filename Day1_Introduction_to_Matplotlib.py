@@ -3,7 +3,6 @@
 import matplotlib.pyplot as plt
 
 # Data
-
 x = [1, 2, 3, 4, 5]
 y = [2, 3, 5, 7, 11]
 
@@ -15,7 +14,6 @@ plt.show()
 
 
 ## Practice Set:
-
 x = [0, 1, 2, 3, 4, 5]
 y = [i**2 for i in x]
 
