@@ -12,7 +12,6 @@ plt.plot(x, y)
 # show the graph
 plt.show()
 
-
 ## Practice Set:
 x = [0, 1, 2, 3, 4, 5]
 y = [i**2 for i in x]
