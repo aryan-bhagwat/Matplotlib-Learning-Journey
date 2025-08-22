@@ -12,3 +12,12 @@ This repository contains my daily progress, code, practice sets, and datasets fo
 - How to install:  
   pip install matplotlib
 - Creating my first simple line plot.
+
+
+## 📅 Day 2 – Basic Plotting
+
+### ✅ What I Learned
+- Adding labels (`plt.xlabel`, `plt.ylabel`)
+- Adding title (`plt.title`)
+- Enabling grid (`plt.grid`)
+- Plotting multiple lines with legend (`plt.legend`)
