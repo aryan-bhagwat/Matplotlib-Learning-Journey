@@ -2,6 +2,7 @@
 
 import matplotlib.pyplot as plt
 
+
 # Data
 x = [1, 2, 3, 4, 5]
 y1 = [i**2 for i in x]   # squares
